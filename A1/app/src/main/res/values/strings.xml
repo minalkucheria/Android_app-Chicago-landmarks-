@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">A1</string>
+    <string-array name="LANDMARKS_LIST">
+        <item>Willis Tower</item>
+        <item>Millenium Park</item>
+        <item>Cloud Gate</item>
+        <item>Shedd Aquarium</item>
+        <item>Wrigley Field</item>
+        <item>Museum of Science and Industry </item>
+    </string-array>
+    <string-array name="WEB_URLS">
+        <item>http://www.willistower.com/</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park_-artarchitecture.html#cloud</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>http://chicago.cubs.mlb.com/chc/ballpark/</item>
+        <item>https://www.msichicago.org/</item>
+    </string-array>
+    <string name="Permission">Allows application access to image_gallery.</string>
+</resources>
